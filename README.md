@@ -90,4 +90,5 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
   - authentication
   - upgrading ui-ux
   - backend
+  - chatbot
 
