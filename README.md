@@ -64,6 +64,9 @@ This application allows users to browse a curated cafe menu, add items to their 
        npm run dev
 
 5. **Open http://localhost:5173 - to view the app in your browser**
+6.  **File Structure**
+      - src
+        - assests
 
 
 ## Screenshots
