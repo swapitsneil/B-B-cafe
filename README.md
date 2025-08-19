@@ -84,3 +84,10 @@ This application allows users to browse a curated cafe menu, add items to their 
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
+
+## Future Scope
+
+  - authentication
+  - upgrading ui-ux
+  - backend
+
